@@ -27,7 +27,7 @@ p{
 }
 
 #heading{
-  background-image: url("../../images/heading-bg.png");
+  background-image: url("https://raw.githubusercontent.com/JaypeeB-Ph/98LabsClone/main/images/heading-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -120,7 +120,7 @@ p{
 /* What We Offer */
 
 #what-we-offer{
-  background-image: url("../../images/we-offer-bg.jpg");
+  background-image: url("https://raw.githubusercontent.com/JaypeeB-Ph/98LabsClone/main/images/we-offer-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -181,7 +181,7 @@ p{
   border: none;
   outline: none;
   background-color: #8b0000;
-  color: white;
+  color: #fff;
   cursor: pointer;
   width: 2.8rem;
   height: 2.8rem;
